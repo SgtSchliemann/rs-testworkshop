@@ -1,5 +1,3 @@
 some text for header
-
-
-chenges from <master>
+changes from <master> __added something new 
 
