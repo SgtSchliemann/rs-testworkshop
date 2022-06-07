@@ -8,7 +8,7 @@ ___Discord:___ | Schliemann#7663
 ___e-mail:___ | wl.sulimov@gmail.com 
 
 ## About me
-
+Engineer aspiring to become a web developer.
 
 ## Skills
 * Soft skills
@@ -16,10 +16,11 @@ ___e-mail:___ | wl.sulimov@gmail.com
     * Teamwork
     * Flexibility
     * Public Speaking
-* Hard skills
+* Hard skills (in process of studying)
     * C++
-    * Python
     * Git
+    * HTML
+    * CSS
 
 ## Code Example
 ### Task: 
@@ -34,14 +35,17 @@ int divisors(int n){
   return j;
 }
 ```
+## Experience
+
+I don't have development experience, but here is my first student [project](https://github.com/SgtSchliemann/rsschool-cv/ "First project"). 
 
 ## Education
 * __Bauman Moscow State Technical University__
     * Radio-Electronic Systems and Devices department
 * __Self-study:__
-    * [RS School](https://app.rs.school/profile?githubId=sgtschliemann   "Stepik.org")    
-    * [Stepik](https://stepik.org/users/52477453   "Stepik.org") 
-    * [Codewars](https://www.codewars.com/users/SgtSchliemann   "CodeWars")
+    * [RS School](https://app.rs.school/profile?githubId=sgtschliemann "RS School")    
+    * [Stepik](https://stepik.org/users/52477453 "Stepik.org") 
+    * [Codewars](https://www.codewars.com/users/SgtSchliemann "CodeWars")
 
 ## Language
 * Russian – native
